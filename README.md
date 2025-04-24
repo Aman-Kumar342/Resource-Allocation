@@ -19,23 +19,23 @@ Here's a summary of the key findings visualized in the generated plots:
 
 *   **Balanced VM Allocation under Nash Equilibrium:** This graph shows the VM allocation for each provider, demonstrating a relatively even distribution. This suggests a balanced and competitive market.
 
-    ![Nash Equilibrium VM Allocation](figures/Nash Equilibrium VM Allocation.png)
+    ![Nash Equilibrium VM Allocation](figures/Nash%20Equilibrium%20VM%20Allocation.png)
 
 *   **Provider Utilities at Nash Equilibrium:** This plot showcases the utility achieved by each provider.  Note that utilities aren't perfectly equal, reflecting differing cost structures or other provider-specific factors.
 
-    ![Provider Utilities at Nash Equilibrium](figures/Provider Utilities at Nash Equilibrium.png)
+    ![Provider Utilities at Nash Equilibrium](figures/Provider%20Utilities%20at%20Nash%20Equilibrium.png)
 
 *   **Revenue and Cost Breakdown:** This figure displays the breakdown of revenue, usage cost, and fixed cost for each provider. Analyzing this graph helps understand the key drivers of profitability.
 
-    ![Revenue and Cost Breakdown per Provider](figures/Revenue and Cost Breakdown per Provider.png)
+    ![Revenue and Cost Breakdown per Provider](figures/Revenue%20and%20Cost%20Breakdown%20per%20Provider.png)
 
 *   **Diminishing Returns of VM Allocation:** This figure demonstrates how the utility shifts as the number of VMs allocated to one provider changes, assuming others allocate 10 VMs. Visualized is diminishing returns, where larger allocations gradually provide a lesser marginal utility (the slope decreases).
 
-    ![Utility vs VMs Allocated (Assuming Others Allocate 10)](figures/Utility vs VMs Allocated (Assuming Others Allocate 10).png)
+    ![Utility vs VMs Allocated (Assuming Others Allocate 10)](figures/Utility%20vs%20VMs%20Allocated%20(Assuming%20Others%20Allocate%2010).png)
 
 *   **Decreasing Price Function:** The price function demonstrates a decreasing trend for VM allocations under 50 and a stable price thereafter, showing a clear relationship between demand and price.
 
-    ![Price Function](figures/Price Function.png)
+    ![Price Function](figures/Price%20Function.png)
 
 ## Project Structure
 
